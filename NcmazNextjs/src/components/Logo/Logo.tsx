@@ -14,6 +14,7 @@ const Logo: React.FC<LogoProps> = ({
   imgLight = logoLightImg,
 }) => {
   return (
+
     <Link
       href="/"
       className="ttnc-logo inline-block text-primary-6000 flex-shrink-0"
