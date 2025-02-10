@@ -28,6 +28,7 @@ const CardCategory3: FC<CardCategory3Props> = ({ className = "" }) => {
         </div>
         <span className="opacity-0 group-hover:opacity-40 absolute inset-0 bg-black/10 transition-opacity"></span>
 
+
         <div>
           <div className="absolute inset-5 sm:inset-8 flex flex-col">
             <div className="max-w-xs">
